@@ -1,0 +1,17 @@
+# Gitignore for Tambola_Voices
+# Only the published voice zip files and README.md are tracked in GitHub
+
+unzipped_*/
+samples_*/
+test_*/
+*.py
+*.pyc
+__pycache__/
+*.wav
+*.log
+*.json
+*.html
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
