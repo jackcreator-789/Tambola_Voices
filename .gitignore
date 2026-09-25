@@ -8,8 +8,9 @@ test_*/
 *.pyc
 __pycache__/
 *.wav
-*.log
 *.json
+!version.json
+!voices/version.json
 *.html
 .vscode/
 .idea/
